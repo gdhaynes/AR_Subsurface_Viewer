@@ -1,0 +1,1 @@
+<resources><!-- Base application theme. --><declare-styleable name="ArcGISARSceneView"><attr name="renderVideoFeed" format="boolean" /><attr name="northAlign" format="boolean" /></declare-styleable></resources>

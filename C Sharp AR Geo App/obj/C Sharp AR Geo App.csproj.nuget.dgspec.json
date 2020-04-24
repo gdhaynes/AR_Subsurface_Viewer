@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\grant\\OneDrive\\Documents\\Programming_Projects\\C Sharp AR Geo App\\C Sharp AR Geo App\\C Sharp AR Geo App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\grant\\OneDrive\\Documents\\Programming_Projects\\C Sharp AR Geo App\\C Sharp AR Geo App\\C Sharp AR Geo App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grant\\OneDrive\\Documents\\Programming_Projects\\C Sharp AR Geo App\\C Sharp AR Geo App\\C Sharp AR Geo App.csproj",
+        "projectName": "C Sharp AR Geo App",
+        "projectPath": "C:\\Users\\grant\\OneDrive\\Documents\\Programming_Projects\\C Sharp AR Geo App\\C Sharp AR Geo App\\C Sharp AR Geo App.csproj",
+        "packagesPath": "C:\\Users\\grant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grant\\OneDrive\\Documents\\Programming_Projects\\C Sharp AR Geo App\\C Sharp AR Geo App\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Esri.ArcGISRuntime.ARToolkit": {
+              "target": "Package",
+              "version": "[100.7.1, )"
+            },
+            "Esri.ArcGISRuntime.ARToolkit.Forms": {
+              "target": "Package",
+              "version": "[100.7.1, )"
+            },
+            "Esri.ArcGISRuntime.Toolkit": {
+              "target": "Package",
+              "version": "[100.7.1, )"
+            },
+            "Esri.ArcGISRuntime.Toolkit.Xamarin.Forms": {
+              "target": "Package",
+              "version": "[100.7.1, )"
+            },
+            "Esri.ArcGISRuntime.Xamarin.Android": {
+              "target": "Package",
+              "version": "[100.7.0, )"
+            },
+            "Xamarin.Android.Arch.Core.Common": {
+              "target": "Package",
+              "version": "[1.1.1.3, )"
+            },
+            "Xamarin.Android.Arch.Lifecycle.Common": {
+              "target": "Package",
+              "version": "[1.1.1.3, )"
+            },
+            "Xamarin.Android.Arch.Lifecycle.Runtime": {
+              "target": "Package",
+              "version": "[1.1.1.3, )"
+            },
+            "Xamarin.Android.Support.Annotations": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.UI": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Fragment": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Media.Compat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Transition": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Vector.Drawable": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.AppCompat": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.v7.RecyclerView": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            },
+            "Xamarin.Google.ARCore": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
